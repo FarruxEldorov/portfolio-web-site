@@ -1,0 +1,47 @@
+@media only screen and (max-width:880px){
+    .navbar-nav{
+        margin-left: 40%;
+        /* text-anchor: middle; */
+    }
+    .navbar-nav li a{
+        line-height: 2px;
+        margin: 9px;
+    }
+    .navbar-brand{
+        margin-left: 8%;
+    }
+    .container{
+        margin-left: 0%;
+    }
+    .card{
+        margin-left: 0%;
+    }
+    .card-img{
+        width: 15%;
+        margin: 9px;
+    }
+    .card-img-1{
+        width: 18%;
+        margin: 9px;
+    }
+    .graphic{
+        margin-left: 35%;
+        margin-top: 80px;
+    }
+    .carousel{
+        margin-top: 140px;
+    }
+    .main-h1{
+        font-size: 20px;
+        left: 25%;
+    }
+    .footer{
+        font-size: 18px;
+    }
+    #load{
+        width: 100%;
+        background: url(https://gifimage.net/wp-content/uploads/2018/11/loader-small-gif-2.gif) no-repeat;
+        position: fixed;
+        z-index: 9999999999;
+    }
+} 
